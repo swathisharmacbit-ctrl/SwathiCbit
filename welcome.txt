@@ -1,3 +1,5 @@
 Hello Students
 Welcome to Git
 This is my first GitHub project.
+
+Git helps developers manage project versions.
